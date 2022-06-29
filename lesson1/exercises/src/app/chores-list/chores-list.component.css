@@ -1,0 +1,11 @@
+.chores{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: violet;
+    font-size: 1.3vw;
+}
+ul{
+    text-decoration: underline;
+}
+li{
+    font-style: italic;
+}
